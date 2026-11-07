@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/MartyFiles/FFToolBox/releases/download/Release/FFToolBox.7z">
+        <a href="https://img.shields.io/badge/AutoCopy-310-blue?style=for-the-badge&logo=download">
           <img src="https://img.shields.io/badge/AutoCopy-310-blue?style=for-the-badge&logo=download">
         </a>
       </td>
