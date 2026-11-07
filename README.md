@@ -3,7 +3,34 @@
 ### <img width="128px" src="https://i.ibb.co/R4QnpYm5/Auto-Copy-conv.png" /> 
 <strong>AutoCopy</strong> — автокопирование выделенного текста!
 
-[![Смотреть видео](https://i.ibb.co/C3vXkGPD/1.jpg)](https://t.me/c/1612078028/500)
+[![Смотреть видео](https://i.ibb.co/C3vXkGPD/1.jpg)](https://youtu.be/GvDsMEPBIFM?t=835)
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td align="center" width="33%"><b>Скачивания</b></td>
+      <td align="center" width="33%"><b>Обзор</b></td>
+      <td align="center" width="33%"><b>Донаты</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MartyFiles/FFToolBox/releases/download/Release/FFToolBox.7z">
+          <img src="https://img.shields.io/badge/AutoCopy-310-blue?style=for-the-badge&logo=download">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtu.be/GvDsMEPBIFM?t=835">
+          <img src="https://img.shields.io/badge/AutoCopy%20-red?style=for-the-badge&logo=youtube">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/tribute/app?startapp=dg3u">
+          <img src="https://img.shields.io/badge/Telegram%20/Tribute-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
